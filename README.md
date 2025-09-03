@@ -16,9 +16,10 @@
 
 ## 📂 Featured Projects
 
-### 🎮 [3rd Person Shooter Game](https://github.com/yourusername/third-person-shooter)
-- A cover-based third-person shooting game made in Unity.  
-- Features character movement, peeking around corners, and weapon system.  
+### 🎮 [3rd Person Shooter Game](https://github.com/Shaheryar-HS/TPS-controller)
+- A cover-based third-person game made in Unity.
+- Features character movement, peeking around corners.
+- Alot of more things in project  
 - **Tech:** Unity, C#, Animator System.  
 
 ---
@@ -30,9 +31,10 @@
 
 ---
 
-### ❓ [Multiplayer Quiz Game](https://github.com/yourusername/quiz-game)
+### ❓ [Multiplayer Quiz Game](https://github.com/Shaheryar-HS/Quiz-game)
 - Online quiz game with real-time score tracking and results UI.  
-- Built with Unity + Mirror Networking.  
+- Built with Unity + Mirror Networking.
+- playfab and photon networking is used for connectivity and data stored.
 - **Tech:** Unity, C#, Mirror Networking, TextMeshPro.  
 
 ---
