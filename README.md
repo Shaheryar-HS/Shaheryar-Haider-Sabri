@@ -45,7 +45,7 @@
 ---
 
 ## 🌍 Connect with me
-- 💼 LinkedIn: (https://github.com/Shaheryar-HS/Shaheryar-Haider-Sabri/edit/main/README.md)
+- 💼 LinkedIn: (https://www.linkedin.com/in/shaheryar-haider-sabri-645300271/)
 - 📧 Email: shaheryarhaider1234@gmail.com
 
 ---
